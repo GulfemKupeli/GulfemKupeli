@@ -1,11 +1,5 @@
 <div align="center">
 
-<sub>
-
-```
-
-</sub>
-
 # Gülfem Küpeli
 ### Mobile Engineer · AI Integrator · HCI
 
