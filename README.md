@@ -1,5 +1,4 @@
 <div align="center">
-
 ╔═══════════════════════════════════════════════════════╗
 ║         G Ü L F E M   K Ü P E L İ                     ║
 ║         Mobile Engineer · AI Integrator · HCI Thinker ║
