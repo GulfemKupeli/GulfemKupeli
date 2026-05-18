@@ -105,7 +105,7 @@ NLP pipeline on 30,000+ emails — TF-IDF, LDA topic modeling, NER (spaCy), sent
 
 `🟢 Open to opportunities`
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🐍</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GulfemKupeli/GulfemKupeli/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GulfemKupeli/GulfemKupeli/output/github-snake.svg">
