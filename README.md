@@ -1,13 +1,18 @@
 <div align="center">
+
+```
 ╔═══════════════════════════════════════════════════════╗
-║         G Ü L F E M   K Ü P E L İ                     ║
+║         G Ü L F E M   K Ü P E L İ                    ║
 ║         Mobile Engineer · AI Integrator · HCI Thinker ║
 ╚═══════════════════════════════════════════════════════╝
+```
+
 [![Location](https://img.shields.io/badge/📍_İzmir,_Türkiye-black?style=flat-square)](https://maps.google.com/?q=Izmir,Turkey)
 [![Email](https://img.shields.io/badge/✉️_gulfemkupeli@gmail.com-black?style=flat-square)](mailto:gulfemkupeli@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gülfemküpeli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GulfemKupeli)
-[![Medium](https://img.shields.io/badge/Medium-121212?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gulfemkupeli)
+[![Medium](https://img.shields.io/badge/Medium-101010?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@gulfemkupeli)
+
 
 </div>
 
@@ -101,7 +106,6 @@ NLP pipeline on 30,000+ emails — TF-IDF, LDA topic modeling, NER (spaCy), sent
 
 `🟢 Open to opportunities`
 <div align="center">
-  <h3>🐍</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GulfemKupeli/GulfemKupeli/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GulfemKupeli/GulfemKupeli/output/github-snake.svg">
