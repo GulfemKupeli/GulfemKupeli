@@ -3,8 +3,6 @@
 <sub>
 
 ```
-› whoami
-```
 
 </sub>
 
