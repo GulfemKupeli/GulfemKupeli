@@ -1,11 +1,9 @@
 <div align="center">
 
-```
 ╔═══════════════════════════════════════════════════════╗
 ║         G Ü L F E M   K Ü P E L İ                     ║
 ║         Mobile Engineer · AI Integrator · HCI Thinker ║
 ╚═══════════════════════════════════════════════════════╝
-```
 
 [![Location](https://img.shields.io/badge/📍_İzmir,_Türkiye-black?style=flat-square)](https://maps.google.com/?q=Izmir,Turkey)
 [![Email](https://img.shields.io/badge/✉️_gulfemkupeli@gmail.com-black?style=flat-square)](mailto:gulfemkupeli@gmail.com)
