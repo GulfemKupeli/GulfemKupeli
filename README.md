@@ -62,6 +62,14 @@ Mobile-first tracker for logging, rating, and discovering movies and series. Soc
 
 </td>
 <td width="50%">
+
+**📧 Enron NLP Pipeline**  
+*End-to-End Crisis Detection System*
+
+NLP pipeline on 30,000+ emails — TF-IDF, LDA topic modeling, NER (spaCy), sentiment classification (**88% accuracy**, Linear SVC, 5-fold CV). Crisis detection via NetworkX + Granger causality testing.
+
+`Python` `Scikit-learn` `spaCy` `NetworkX`
+
 </td>
 </tr>
 </table>
