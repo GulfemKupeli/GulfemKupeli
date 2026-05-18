@@ -3,7 +3,7 @@
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║         G Ü L F E M   K Ü P E L İ                    ║
-║         Mobile Engineer · AI Integrator · HCI Thinker ║
+║         Mobile Engineer · AI Integrator               ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
