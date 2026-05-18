@@ -53,23 +53,15 @@ Swipe-based matching engine with AI CV parsing, multi-factor scoring, real-time 
 <tr>
 <td width="50%">
 
-**📧 Enron NLP Pipeline**  
-*End-to-End Crisis Detection System*
+**🎬 WatchVerse**  
+*Social Movie & Series Tracker*
 
-NLP pipeline on 30,000+ emails — TF-IDF, LDA topic modeling, NER (spaCy), sentiment classification (**88% accuracy**, Linear SVC, 5-fold CV). Crisis detection via NetworkX + Granger causality testing.
+Mobile-first tracker for logging, rating, and discovering movies and series. Social feed shows friends' activity and ratings in real time — Letterboxd, reimagined for mobile.
 
-`Python` `Scikit-learn` `spaCy` `NetworkX`
+`Flutter` `Firebase` `TMDB API` `Dart`
 
 </td>
 <td width="50%">
-
-**🚗 Fleet Management App**  
-*Internal Logistics Automation @ YALTES*
-
-Flutter-based vehicle management system to automate internal logistics and reservation tracking for enterprise environments.
-
-`Flutter` `Dart` `Mobile Dev`
-
 </td>
 </tr>
 </table>
